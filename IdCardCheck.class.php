@@ -1,5 +1,4 @@
 <?php
-namespace Org\CrmLib;
 
 /**
  * 中国身份证号码验证 含大陆、香港、澳门
@@ -144,4 +143,3 @@ class IdCardCheck {
         return $return;
     }
 }
-
